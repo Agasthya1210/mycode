@@ -1,7 +1,7 @@
 import pandas as pd
 i=int(input('Enter number of employees: '))
 for emp in range(1,i+1):
-    print('enter person'+ str(emp)+ 'details' )
+    print('enter person '+ str(emp)+ ' details:' )
     first_name=input('Enter your first name:')
     last_name=input('Enter your last name: ')
     sur_name=input('Enter your surname: ')

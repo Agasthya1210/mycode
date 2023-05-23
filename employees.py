@@ -1,3 +1,4 @@
+# this script is used to add employee data
 import csv
 f= open('C:\\Users\\Vedasri\\PYTHON\\data.csv', 'w')
 wo=csv.writer(f,delimiter=',')
